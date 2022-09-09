@@ -1,0 +1,93 @@
+../@font-face {
+  font-family: "icomoon";
+  src: url("../fonts/icomoon.eot?hdp2fj");
+  src: url("../fonts/icomoon.eot?hdp2fj#iefix") format("embedded-opentype"),
+    url("../fonts/icomoon.ttf?hdp2fj") format("truetype"),
+    url("../fonts/icomoon.woff?hdp2fj") format("woff"),
+    url("../fonts/icomoon.svg?hdp2fj#icomoon") format("svg");
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="icon-"],
+[class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: "icomoon" !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-google3:before {
+  content: "\ea8a";
+}
+.icon-google-plus:before {
+  content: "\ea8b";
+}
+.icon-google-plus2:before {
+  content: "\ea8c";
+}
+.icon-google-plus3:before {
+  content: "\ea8d";
+}
+.icon-facebook:before {
+  content: "\ea90";
+}
+.icon-instagram:before {
+  content: "\ea92";
+}
+.icon-whatsapp:before {
+  content: "\ea93";
+}
+.icon-telegram:before {
+  content: "\ea95";
+}
+.icon-twitter:before {
+  content: "\ea96";
+}
+.icon-youtube2:before {
+  content: "\ea9e";
+}
+.icon-appleinc:before {
+  content: "\eabe";
+}
+.icon-windows:before {
+  content: "\eac1";
+}
+.icon-linkedin:before {
+  content: "\eac9";
+}
+.icon-file-word:before {
+  content: "\eae1";
+}
+.icon-adobe:before {
+  content: "\e900";
+  color: #f00;
+}
+.icon-amazon:before {
+  content: "\e901";
+  color: #f90;
+}
+.icon-apple:before {
+  content: "\e902";
+  color: #999;
+}
+.icon-applepay:before {
+  content: "\e903";
+}
+.icon-facebook1:before {
+  content: "\e904";
+  color: #1877f2;
+}
+.icon-hp:before {
+  content: "\e905";
+  color: #0096d6;
+}
